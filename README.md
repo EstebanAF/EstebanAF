@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./eaf-banner.svg" alt="EAF - Esteban Amaya Fonseca" width="100%"/>
+  <img src="assets/eaf-banner.svg" alt="EAF - Esteban Amaya Fonseca" width="100%"/>
 </div>
 <div align="center">
 
