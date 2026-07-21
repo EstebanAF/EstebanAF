@@ -46,8 +46,8 @@
 
 <div align="center">
 
-<img src="https://github-stats-extended.vercel.app/api?username=EstebanAF&include_all_commits=true&theme=shadow_red" height="165" />
-<img src="https://github-stats-extended.vercel.app/api/top-langs?username=EstebanAF&layout=donut&langs_count=4&theme=shadow_red" height="165" />
+<img src="https://github-stats-extended.vercel.app/api?username=EstebanAF&rank_icon=github&include_all_commits=true&theme=dark" height="165" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs?username=EstebanAF&layout=donut&langs_count=4&theme=dark" height="165" />
 
 </div>
 
